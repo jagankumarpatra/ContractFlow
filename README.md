@@ -4,18 +4,9 @@
 
 ### Contract Lifecycle Management Backend — Python · FastAPI · PostgreSQL · AI
 
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-336791?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-7.x-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io)
-[![Tests](https://img.shields.io/badge/Tests-27%20passing-brightgreen?style=flat)](#-running-tests)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 **A production-grade Contract Lifecycle Management (CLM) API.**  
 Companies waste thousands of hours managing contracts manually — creation, review, approval, signing, and expiry tracking.  
 ContractFlow automates the entire lifecycle with a clean REST API, enforced status workflows, AI-powered clause extraction, and async expiry alerts.
-
-> Inspired by platforms like SpotDraft, Ironclad, and DocuSign's CLM layer.
 
 [Quick Start](#-quick-start) · [Architecture](#-architecture) · [API Docs](#-api-documentation) · [Design Decisions](#-design-decisions) · [Tests](#-running-tests)
 
